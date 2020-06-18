@@ -1,2 +1,2 @@
 # ThresholdFinder
-R script to find threshold values for Verve
+R script to find threshold values for Verve.
